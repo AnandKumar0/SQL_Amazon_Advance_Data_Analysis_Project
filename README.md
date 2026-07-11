@@ -1,5 +1,5 @@
 # Amazon Advance Data Analysis using PostgreSQL
-![amazonlogo]
+![amazonlogo](https://github.com/AnandKumar0/SQL_Amazon_Advance_Data_Analysis_Project/blob/main/amazonlogo.png)
 ## Project Overview
 
 **Project Title:** Amazon Advance Data Analysis
