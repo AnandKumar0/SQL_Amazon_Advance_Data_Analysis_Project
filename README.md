@@ -133,7 +133,8 @@ CREATE TABLE inventory (
 	CONSTRAINT fk_inventory_products FOREIGN KEY(product_id) REFERENCES products(product_id)
 );
 ```
-
+**Entity Relationship Diagram (ERD)**
+![ERD](https://github.com/AnandKumar0/SQL_Amazon_Advance_Data_Analysis_Project/blob/main/ERD.png)
 **Verify the Data**
 
 ```sql
